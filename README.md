@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faith-600
 - 👀 I’m interested in developing digital solutions that improve healthcare accessibility.
 🌱 I'm a self-taught web developer with a background in public health, currently transitioning into software engineering. 
-- 💞️ I’m looking to collaborate on open-source projects especially those that focuses on health tech.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me:ezekielfaithtoyin@gmail.com
 - ⚡ Fun fact: I love Coding😊
 
